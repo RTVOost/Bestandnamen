@@ -1,7 +1,6 @@
 import os
 from PIL import Image
 
-# Ondersteunde extensies
 AFBEELDING_EXTENSIES = ['.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff', '.webp']
 
 def is_afbeelding(bestandsnaam):
